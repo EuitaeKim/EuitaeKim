@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=EuitaeKim&show_icons=true&theme=swift" hegith="150">
 -->
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
-<br><br>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=EuitaeKim&show_icons=true&theme=swift" hegith="150">
