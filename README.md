@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuitaeKim&show_icons=true&theme=swift)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=EuitaeKim&show_icons=true&theme=swift" hegith="150">
