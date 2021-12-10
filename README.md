@@ -1,29 +1,7 @@
 ### Hi there 👋
+Visual Information Design을 전공하고 Design Agency에서 약 3년간 Project Manager 및 Performance Marketer로 근무하였습니다. 근무 간 ‘서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다’고 확신하게 되었고, 이를 증명하기 위해 Data Analyst & Data Scientist로의 커리어 전환을 시작하였습니다.
 
-<!--
-**EuitaeKim/EuitaeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=EuitaeKim&show_icons=true&theme=swift" hegith="150">
-
-<p align="center">
-
--->
-
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
-
-
-</br></br></br></br></br></br></br></br></br></br></br>
-
+### Skill Stack
 <table>
 <tr>
    <td> Languages
@@ -65,3 +43,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" height="25" align="middle"></a>
   </td>
 </tr>
+</table>
+
+### Career
+2021.05 ~2021.11 - CodeStates AI Bootcamp(4th), Student </br>
+2017.04 ~ 2020.02 - Ahngraphics, Performance Marketer & Project Manager </br>
+2017.01 ~ 2017.04 - INTEROHRIGIN, Graphic Designer </br>
+
+### Code Practice
+
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
+
+
