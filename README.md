@@ -1,7 +1,20 @@
-### Hi there 👋
-Visual Information Design을 전공하고 Design Agency에서 약 3년간 Project Manager 및 Performance Marketer로 근무하였습니다. 근무 간 ‘서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다’고 확신하게 되면서 Data Analyst & Data Scientist로의 커리어 전환을 본격적으로 시작하였습니다.
+## Hi there 👋
+'서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다'라는 가설을 증명하고 싶은 Data Analyst이자 Scientist입니다. </br>
+편견에서 벗어나 사실을 전달하는 스토리텔러가 되는 것이 인생의 목표입니다. </br>
 
-### Skill Stack
+## Project & Competition
+2021.10 ~ 11 (P) Codestates Corporate Collaboration with LOMIN </br>
+2021.10 ~ 10 (P) 이미지 객체인식 기술을 활용한 랜드마크 탐지 및 관련 정보 제공 어플리케이션 구축 </br>
+2021.08 ~ 09 (P) 위드 코로나 시대를 대비하기 위한 호텔 산업 현황 분석 및 전략 도출 </br>
+2021.09 ~ 09 (C) Kaggle Tabular Playground Series - Sep 2021 </br>
+2021.07 ~ 07 (P) 설문조사 응답자의 교통사고 및 법규 위반 여부 예측 모델 구축 </br>
+
+## Career
+2021.05 ~ 2021.11 - CodeStates AI Bootcamp(4th), Student </br>
+2017.04 ~ 2020.02 - Ahngraphics, Performance Marketer & Project Manager </br>
+2017.01 ~ 2017.04 - INTEROHRIGIN, Graphic Designer </br>
+
+## Skill Stack
 <table>
 <tr>
    <td> Languages
@@ -45,17 +58,5 @@ Visual Information Design을 전공하고 Design Agency에서 약 3년간 Projec
 </tr>
 </table>
 
-### Career
-2021.05 ~ 2021.11 - CodeStates AI Bootcamp(4th), Student </br>
-2017.04 ~ 2020.02 - Ahngraphics, Performance Marketer & Project Manager </br>
-2017.01 ~ 2017.04 - INTEROHRIGIN, Graphic Designer </br>
-
-### Project & Competition
-2021.10 ~ 11 (P) Codestates Corporate Collaboration with LOMIN </br>
-2021.10 ~ 10 (P) 이미지 객체인식 기술을 활용한 랜드마크 탐지 및 관련 정보 제공 어플리케이션 구축 </br>
-2021.08 ~ 09 (P) 위드 코로나 시대를 대비하기 위한 호텔 산업 현황 분석 및 전략 도출 </br>
-2021.09 ~ 09 (C) Kaggle Tabular Playground Series - Sep 2021 </br>
-2021.07 ~ 07 (P) 설문조사 응답자의 교통사고 및 법규 위반 여부 예측 모델 구축 프로젝트 </br>
-
-### Code Practice
+## Code Practice
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="150">
