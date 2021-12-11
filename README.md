@@ -108,5 +108,5 @@
 </tr>
 </table>
 
-## 💻 Code Practice
+## 💻 Coding Practice
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="150">
