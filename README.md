@@ -1,6 +1,6 @@
 ## Hi there 👋
-'서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다'라는 저의 가설을 증명하고 싶은 Data Analyst입니다. </br>
-편견에서 벗어나 사실을 전달하는 데이터 기반의 스토리텔러가 되는 것이 인생의 목표입니다. </br>
+'서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다'는 가설을 증명하고 싶은 Data Analyst 이자, </br>
+사람들에게 편견을 넘어 진실을 전달하는 Story Teller가 되고 싶은 김의태입니다. </br>
 
 ## Project & Competition
 <table>
