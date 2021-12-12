@@ -9,30 +9,52 @@
   </td>
    <td> (P) Codestates Corporate Collaboration with LOMIN
   </td>
+   <td>
+  </td>
 </tr>
 <tr>
    <td> 2021.10 ~ 10
   </td>
    <td> (P) 이미지 객체인식 기술을 활용한 랜드마크 탐지 및 관련 정보 제공 어플리케이션 구축
   </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Project_Object_Recognition">
+   🔗
+   </a>
+   </td>
 </tr>
 <tr>
    <td> 2021.08 ~ 09
   </td>
    <td> (P) 위드 코로나 시대를 대비하기 위한 호텔 산업 현황 분석 및 전략 도출
   </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Project_Hotel_Strategy_with_Covid-19">
+   🔗
+   </a>
+   </td>
 </tr>
 <tr>
    <td> 2021.09 ~ 09
   </td>
    <td> (C) Kaggle Tabular Playground Series - Sep 2021
   </td>
+   <td>
+   <a href="https://www.kaggle.com/c/tabular-playground-series-sep-2021/overview">
+   🔗
+   </a>
+   </td>
 </tr>
 <tr>
    <td> 2021.07 ~ 07
   </td>
    <td> (P) 설문조사 응답자의 교통사고 및 법규 위반 여부 예측 모델 구축
   </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Project_Traffic_Safety_Survey">
+   🔗
+   </a>
+   </td>
 </tr>
 </table>
 
