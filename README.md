@@ -100,7 +100,6 @@
 </table>
 
 *(P): Project, (C): Competition, (S): Study*
-
 </br>
 
 ## 🔧 Skill Stack
