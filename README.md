@@ -5,12 +5,53 @@
 ## 🔥 Project & Competition
 <table>
 <tr>
+   <td> 2022.01 ~
+  </td>
+   <td> (C) Kaggle Feedback Prize - Evaluating Student Writing
+  </td>
+   <td>
+   <a href="https://www.kaggle.com/c/feedback-prize-2021">
+   🔗
+   </a>
+   </td>
+</tr>
+<tr>
+   <td> 2021.12 ~
+  </td>
+   <td> (S) Codestates Alumni Challenge - Back To Statistical learning Study
+  </td>
+   <td>
+  </td>
+</tr>
+<tr>
+   <td> 2021.12 ~ 22.01
+  </td>
+   <td> (C) Kaggle Tabular Playground Series - Dec 2021
+  </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Competition_Tabular_Playground_Series_DEC">
+   🔗
+   </a>
+   </td>
+</tr>
+<tr>
    <td> 2021.10 ~ 11
   </td>
    <td> (P) Codestates Corporate Collaboration with LOMIN
   </td>
    <td>
   </td>
+</tr>
+<tr>
+   <td> 2021.10 ~
+  </td>
+   <td> (P) Baekjoon Daliy Coding Practice
+  </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Practice_Code_BOJ">
+   🔗
+   </a>
+   </td>
 </tr>
 <tr>
    <td> 2021.10 ~ 10
@@ -24,23 +65,23 @@
    </td>
 </tr>
 <tr>
-   <td> 2021.08 ~ 09
-  </td>
-   <td> (P) 위드 코로나 시대를 대비하기 위한 호텔 산업 현황 분석 및 전략 도출
-  </td>
-   <td>
-   <a href="https://github.com/EuitaeKim/Project_Hotel_Strategy_with_Covid-19">
-   🔗
-   </a>
-   </td>
-</tr>
-<tr>
    <td> 2021.09 ~ 09
   </td>
    <td> (C) Kaggle Tabular Playground Series - Sep 2021
   </td>
    <td>
    <a href="https://www.kaggle.com/c/tabular-playground-series-sep-2021/overview">
+   🔗
+   </a>
+   </td>
+</tr>
+<tr>
+   <td> 2021.08 ~ 09
+  </td>
+   <td> (P) 위드 코로나 시대를 대비하기 위한 호텔 산업 현황 분석 및 전략 도출
+  </td>
+   <td>
+   <a href="https://github.com/EuitaeKim/Project_Hotel_Strategy_with_Covid-19">
    🔗
    </a>
    </td>
