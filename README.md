@@ -5,12 +5,12 @@
 ## 🔥 Activity
 <table>
 <tr>
-   <td> 2022.01 ~
+   <td> 2022.02 ~
   </td>
-   <td> (C) Kaggle Feedback Prize - Evaluating Student Writing
+   <td> (C) Kaggle H&M Personalized Fashion Recommendations
   </td>
    <td>
-   <a href="https://www.kaggle.com/c/feedback-prize-2021">
+   <a href="https://github.com/EuitaeKim/Competition_HM_Personalized_Fashion_Recommendations">
    🔗
    </a>
    </td>
