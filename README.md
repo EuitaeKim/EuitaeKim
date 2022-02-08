@@ -1,8 +1,8 @@
 ## 👋 Hi there
 '서비스 양쪽에 위치하는 고객과 기업 모두를 만족시킬 Insight는 데이터에 있다'는 가설을 증명하고 싶은 Data Analyst 이자, </br>
 사람들에게 편견을 넘어 진실을 전달하는 Story Teller가 되고 싶은 김의태입니다. </br>
-
-## 🔥 Project & Competition & Study
+</br>
+## 🔥 Activity
 <table>
 <tr>
    <td> 2022.01 ~
@@ -101,33 +101,7 @@
 
 *(P): Project, (C): Competition, (S): Study*
 
-## 💼 Career
-<table>
-<tr>
-   <td> 2021.05 ~ 2021.11
-  </td>
-   <td> CodeStates AI Bootcamp(4th)
-  </td>
-   <td> Student
-  </td>
-</tr>
-<tr>
-   <td> 2017.04 ~ 2020.02
-  </td>
-   <td> Ahngraphics
-  </td>
-   <td> Performance Marketer & Project Manager
-  </td>
-</tr>
-<tr>
-   <td> 2017.01 ~ 2017.04
-  </td>
-   <td> INTEROHRIGIN
-  </td>
-   <td> Graphic Designer
-  </td>
-</tr>
-</table>
+</br>
 
 ## 🔧 Skill Stack
 <table>
