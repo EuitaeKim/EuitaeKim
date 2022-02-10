@@ -16,7 +16,7 @@
    </td>
 </tr>
 <tr>
-   <td> 2021.12 ~
+   <td> 2021.12 ~ 22.02
   </td>
    <td> (S) Codestates Alumni Challenge - Back To Statistical learning Study
   </td>
