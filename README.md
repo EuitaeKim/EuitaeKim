@@ -10,7 +10,10 @@
    <td> (S) 가짜연구소 Data Science Fellowship 2기
   </td>
    <td>
-  </td>
+   <a href="https://pseudo-lab.com">
+   🔗
+   </a>
+   </td>
 </tr>
 <tr>
    <td> 2022.02 ~
