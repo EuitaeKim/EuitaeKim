@@ -7,6 +7,14 @@
 <tr>
    <td> 2022.02 ~
   </td>
+   <td> (S) 가짜연구소 Data Science Fellowship 2기
+  </td>
+   <td>
+  </td>
+</tr>
+<tr>
+   <td> 2022.02 ~
+  </td>
    <td> (C) Kaggle H&M Personalized Fashion Recommendations
   </td>
    <td>
